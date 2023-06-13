@@ -1,0 +1,19 @@
+{
+  "name": "qinzj-cli",
+  "version": "1.0.0",
+  "description": "常用框架脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QinZhongJ/qinzj-cli.git"
+  },
+  "author": "QinZJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QinZhongJ/qinzj-cli/issues"
+  },
+  "homepage": "https://github.com/QinZhongJ/qinzj-cli#readme"
+}
